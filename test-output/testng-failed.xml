@@ -5,6 +5,8 @@
     <classes>
       <class name="task">
         <methods>
+          <include name="launchBrowser"/>
+          <include name="CloseBrowser"/>
           <include name="register"/>
         </methods>
       </class> <!-- task -->
