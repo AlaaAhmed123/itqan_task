@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Brower is opened now]]>
+    </line>
+    <line>
+      <![CDATA[Brower is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Click logo Account]]>
+    </line>
+    <line>
+      <![CDATA[Click My Account]]>
+    </line>
+    <line>
+      <![CDATA[Click create Account Button]]>
+    </line>
+    <line>
+      <![CDATA[Data is entered for firstname]]>
+    </line>
+    <line>
+      <![CDATA[Data is entered for lastname]]>
+    </line>
+    <line>
+      <![CDATA[Data is entered for email_address]]>
+    </line>
+    <line>
+      <![CDATA[Data is entered for password]]>
+    </line>
+    <line>
+      <![CDATA[Data is entered for password confirmation]]>
+    </line>
+    <line>
+      <![CDATA[Click Radio Button]]>
+    </line>
+    <line>
+      <![CDATA[Click Register Button]]>
+    </line>
+    <line>
+      <![CDATA[Message for registering]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-07T15:17:44 EET" name="Default suite" finished-at="2023-04-07T15:17:59 EET" duration-ms="14270">
+    <groups>
+    </groups>
+    <test started-at="2023-04-07T15:17:44 EET" name="Default test" finished-at="2023-04-07T15:17:59 EET" duration-ms="14270">
+      <class name="task">
+        <test-method signature="register()[pri:0, instance:task@67c27493]" started-at="2023-04-07T15:17:44 EET" name="register" finished-at="2023-04-07T15:17:59 EET" duration-ms="14213" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Brower is opened now]]>
+            </line>
+            <line>
+              <![CDATA[Brower is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Click logo Account]]>
+            </line>
+            <line>
+              <![CDATA[Click My Account]]>
+            </line>
+            <line>
+              <![CDATA[Click create Account Button]]>
+            </line>
+            <line>
+              <![CDATA[Data is entered for firstname]]>
+            </line>
+            <line>
+              <![CDATA[Data is entered for lastname]]>
+            </line>
+            <line>
+              <![CDATA[Data is entered for email_address]]>
+            </line>
+            <line>
+              <![CDATA[Data is entered for password]]>
+            </line>
+            <line>
+              <![CDATA[Data is entered for password confirmation]]>
+            </line>
+            <line>
+              <![CDATA[Click Radio Button]]>
+            </line>
+            <line>
+              <![CDATA[Click Register Button]]>
+            </line>
+            <line>
+              <![CDATA[Message for registering]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
